@@ -5,27 +5,22 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00B2FF&width=435&lines=I+am+a+MERN+Stack+Developer;Love+building+modern+web+apps;Exploring+Prisma+and+SvelteKit;Currently+learning+Stripe+Integrations;Deploying+on+Hostinger+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="400" alt="coding gif" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prateekmishraaa&label=Profile+views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 ---
 
-### 🔥 About Me
+### 👨‍💻 About Me
 
-- 💻 I’m a Full Stack Developer working with **React**, **Node.js**, and **MongoDB**
-- 💡 Currently diving deep into **Prisma ORM**, **MySQL**, **Stripe APIs**, and **SvelteKit**
-- 🛠️ Hosting projects on **Hostinger**, **Vercel**, and **Render**
-- 💬 Ask me about **anything related to Full Stack Development**
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif" />
+
+- 💻 Full Stack Developer (React | Node.js | MongoDB)
+- 🚀 Currently exploring Prisma ORM, MySQL, Stripe APIs, and SvelteKit
+- 🧠 Building scalable APIs, secure auth flows, and awesome UIs
+- 🛠️ Hosting with Hostinger, Vercel, and Render
 - 📫 Reach me at: **pm921670@gmail.com**
 
 ---
 
 ### 🌐 Connect with Me
+
 <p align="left">
   <a href="https://linkedin.com/in/prateek mishra" target="blank">
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
@@ -43,11 +38,18 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,mysql,tailwind,bootstrap,git,github,express,prisma,svelte,stripe,vercel,postman,vscode,figma" />
 </p>
 
-> 🧠 Also experienced with: JWT, REST APIs, EJS, Nodemailer, bcryptjs, and more...
+---
+
+### 💻 More Dev Vibes
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/2a/58/1e/2a581ee20b3475cb6811f0163a19e5d5.gif" width="300" />
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" />
+</p>
 
 ---
 
-### 🚀 Hosting & Deployment
+### 🧑‍🚀 Hosting & Deployment
 
 <p align="left">
   <img src="https://img.shields.io/badge/Hostinger-%234286f4?style=for-the-badge&logo=hostinger&logoColor=white" />
@@ -78,9 +80,9 @@
 
 ---
 
-### 📌 Featured Projects
+### 🔥 Featured Projects
 
-> Pin your best GitHub repos here to showcase live demos and code quality.
+> Add your top GitHub repos here with links + descriptions for each.
 
 - ✨ [**Project 1** – MERN App with Auth, Stripe, Uploads]()
 - 🚀 [**Project 2** – SvelteKit Blog with Prisma + MySQL]()
@@ -88,16 +90,20 @@
 
 ---
 
-### 💬 Fun Facts
+### 💬 Fun Dev Facts
 
 - 🧩 I love solving problems with clean UI/UX
-- 🛸 Sometimes I spend more time tweaking the design than writing code 😄
-- 🧙 Fun mantra: `git commit -m "done is better than perfect"`
+- 🎨 A bit of a perfectionist with animations & visuals
+- ⚡ Favorite Stack: `React + Tailwind + Node + Mongo + Prisma`
+- 💡 Fun mantra: `git commit -m "focus and finish"`
 
 ---
 
-### 🚀 Let's Build Something Awesome Together!
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
 
 ---
 
-> _“Consistency beats talent when talent doesn’t show up.” – Keep coding, keep learning._ 💻✨
+> 🚀 _Let’s code something legendary. Connect with me and build cool stuff!_
+
