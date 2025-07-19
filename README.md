@@ -82,8 +82,8 @@
 
 ## 💡 Dev Quote
 
-> _"The best error message is the one that never shows up."_ – **Thomas Fuchs**  
-> _"First, solve the problem. Then, write the code."_ – **John Johnson**
+> _"The best error message is the one that never shows up."_ – **Prateek Mishra**  
+> _"First, solve the problem. Then, write the code."_ – **Prateek Mishra**
 
 ---
 
