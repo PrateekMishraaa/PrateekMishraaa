@@ -2,7 +2,7 @@
 <h3 align="center">🚀 A Passionate MERN Stack Developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7971E&center=true&vCenter=true&width=435&lines=React.js+Lover+⚛️;Node.js+Wizard+🧙‍♂️;MongoDB+%2B+MySQL+Handler+🗃️;Full+Stack+with+TailwindCSS+🌈;Always+Learning+Something+New+📚" alt="Typing SVG" />
+<svg width="20px" height="20px" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M16 4H4c-1.101 0-2 .9-2 2v7c0 1.1.899 2 2 2h4l4 3v-3h4c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zM6 10.6a1.1 1.1 0 1 1 0-2.2 1.1 1.1 0 0 1 0 2.2zm4 0a1.1 1.1 0 1 1 0-2.2 1.1 1.1 0 0 1 0 2.2zm4 0a1.1 1.1 0 1 1 0-2.2 1.1 1.1 0 0 1 0 2.2z"/></svg>
 </p>
 
 <p align="center">
