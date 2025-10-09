@@ -1,10 +1,10 @@
 
 
+<h1 align="center">Hi 👋, I'm Prateek Mishra</h1>
+<h3 align="center">🚀 A Passionate MERN Stack Developer from India 🇮🇳</h3>
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-<h1 align="center">Hi 👋, I'm Prateek Mishra</h1>
-<h3 align="center">🚀 A Passionate MERN Stack Developer from India 🇮🇳</h3>
 
 <p align="center">
 <svg width="20px" height="20px" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M16 4H4c-1.101 0-2 .9-2 2v7c0 1.1.899 2 2 2h4l4 3v-3h4c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zM6 10.6a1.1 1.1 0 1 1 0-2.2 1.1 1.1 0 0 1 0 2.2zm4 0a1.1 1.1 0 1 1 0-2.2 1.1 1.1 0 0 1 0 2.2zm4 0a1.1 1.1 0 1 1 0-2.2 1.1 1.1 0 0 1 0 2.2z"/></svg>
