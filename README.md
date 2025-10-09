@@ -1,3 +1,8 @@
+
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 <h1 align="center">Hi 👋, I'm Prateek Mishra</h1>
 <h3 align="center">🚀 A Passionate MERN Stack Developer from India 🇮🇳</h3>
 
