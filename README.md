@@ -1,4 +1,4 @@
-
+<img src="https://images.prismic.io/loco-blogs/79328284-f97b-489f-924c-eb3b17e34b56_image2.png?auto=compress%2Cformat&rect=0%2C0%2C1999%2C1124&w=1920&h=1080&ar=1.91%3A1" alt="Prateek mishra - MERN Stack Developer" />
 
 <h1 align="center">Hi 👋, I'm Prateek Mishra</h1>
 <h3 align="center">🚀 A Passionate MERN Stack Developer from India 🇮🇳</h3>
