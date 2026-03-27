@@ -1,71 +1,18 @@
 <img src="https://images.prismic.io/loco-blogs/79328284-f97b-489f-924c-eb3b17e34b56_image2.png?auto=compress%2Cformat&rect=0%2C0%2C1999%2C1124&w=1920&h=1080&ar=1.91%3A1" alt="Prateek mishra - MERN Stack Developer" />
 
+<h1 align="center">Hi 👋, I'm Prateek Mishra</h1>
+<h3 align="center">🚀 A Passionate MERN Stack Developer from India 🇮🇳</h3>
 <div align="center">
-  <h1>
-    <span style="display: inline-block; animation: float 3s ease-in-out infinite;">👋</span>
-    Hi, I'm Prateek Mishra
-  </h1>
-  <h3>🚀 A Passionate MERN Stack Developer from India 🇮🇳</h3>
-  <div style="margin: 20px 0;">
-    <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-  </div>
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-<style>
-  @keyframes float {
-    0% { transform: translateY(0px); }
-    50% { transform: translateY(-10px); }
-    100% { transform: translateY(0px); }
-  }
-  .cube-container {
-    perspective: 800px;
-    margin: 40px auto;
-    width: 200px;
-    height: 200px;
-  }
-  .cube {
-    width: 100%;
-    height: 100%;
-    position: relative;
-    transform-style: preserve-3d;
-    animation: rotateCube 12s infinite linear;
-  }
-  .cube-face {
-    position: absolute;
-    width: 200px;
-    height: 200px;
-    background: rgba(0, 0, 0, 0.7);
-    border: 2px solid #fff;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 2rem;
-    font-weight: bold;
-    color: #fff;
-    backface-visibility: visible;
-  }
-  .front  { transform: rotateY(0deg) translateZ(100px); background: rgba(97, 218, 251, 0.8); }
-  .back   { transform: rotateY(180deg) translateZ(100px); background: rgba(0, 128, 0, 0.8); }
-  .right  { transform: rotateY(90deg) translateZ(100px); background: rgba(255, 193, 7, 0.8); }
-  .left   { transform: rotateY(-90deg) translateZ(100px); background: rgba(255, 68, 68, 0.8); }
-  .top    { transform: rotateX(90deg) translateZ(100px); background: rgba(156, 39, 176, 0.8); }
-  .bottom { transform: rotateX(-90deg) translateZ(100px); background: rgba(33, 150, 243, 0.8); }
-  @keyframes rotateCube {
-    from { transform: rotateX(0deg) rotateY(0deg); }
-    to   { transform: rotateX(360deg) rotateY(360deg); }
-  }
-</style>
+<p align="center">
+<svg width="20px" height="20px" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M16 4H4c-1.101 0-2 .9-2 2v7c0 1.1.899 2 2 2h4l4 3v-3h4c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zM6 10.6a1.1 1.1 0 1 1 0-2.2 1.1 1.1 0 0 1 0 2.2zm4 0a1.1 1.1 0 1 1 0-2.2 1.1 1.1 0 0 1 0 2.2zm4 0a1.1 1.1 0 1 1 0-2.2 1.1 1.1 0 0 1 0 2.2z"/></svg>
+</p>
 
-<div align="center" class="cube-container">
-  <div class="cube">
-    <div class="cube-face front">⚛️</div>
-    <div class="cube-face back">📦</div>
-    <div class="cube-face right">🟢</div>
-    <div class="cube-face left">📘</div>
-    <div class="cube-face top">🐍</div>
-    <div class="cube-face bottom">🎨</div>
-  </div>
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prateekmishraaa&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -109,7 +56,7 @@
 
 ---
 
-## 📈 GitHub Stats (with 3D Contribution Graph)
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prateekmishraaa&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -119,10 +66,6 @@
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekmishraaa&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?user=prateekmishraaa&theme=green" alt="3D Contribution Graph" width="800" />
 </p>
 
 ---
